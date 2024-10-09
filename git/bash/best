@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "Best School"
 =======
 echo "This School is so cool"
+>>>>>>> main
+=======
+echo "School"
 >>>>>>> main
